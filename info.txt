@@ -1,0 +1,5 @@
+1. Basic Test With Cucumber : Printer
+2. Basic Data Table with Cucumber via Scenario Outline
+3. Basic Web Test + Data Table 
+
+all applying Screenplan Pattern of Serenity BDD
